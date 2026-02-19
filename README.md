@@ -46,18 +46,6 @@ I am actively looking for internship opportunities in Backend / Python Developme
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aimlnitishkumar&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimlnitishkumar&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 What I’m Working On
 
 - AI-based Projects  
