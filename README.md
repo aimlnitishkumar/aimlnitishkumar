@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Full Stack Developer | Python | Django | MySQL | Git & GitHub | Problem Solver</h3>
 
 <p align="center">
-  <a href="mailto:aimlnitishkumar@gmail.com">📫 aimlnitishkumar@gmail.com</a> <br>   <a href="https://portfolio-nitish-beta.vercel.app/" blank="target" >Portfolio</a>
+  <a href="mailto:aimlnitishkumar@gmail.com">📫 aimlnitishkumar@gmail.com</a> <br>   <a href="https://portfolio-nitish-beta.vercel.app/" target="_blank" >Portfolio</a>
 </p>
 
 ---
